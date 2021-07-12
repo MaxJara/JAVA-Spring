@@ -1,6 +1,5 @@
 package com.accenture.market.domain.repository;
 
-
 import com.accenture.market.domain.Product;
 
 import java.util.List;
