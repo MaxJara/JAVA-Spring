@@ -1,4 +1,4 @@
-package com.accenture.market.web.controller;
+package com.accenture.market;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
